@@ -8,8 +8,7 @@
 ---
 
 # Najczęsciej używane języki
-[![Najcześciej używane języki](![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Misterekk&count_private=true)
-)](https://github.com/anuraghazra/github-readme-stats)
+(![Statystyki](https://github-readme-stats.vercel.app/api?username=Misterekk&count_private=true))
 
 <!---
 Misterekk/Misterekk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
