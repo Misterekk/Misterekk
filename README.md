@@ -8,8 +8,8 @@
 ---
 
 # Moje statystyki!
-(![Statystyki](![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Misterekk&show_icons=true&theme=radical)
-)
+(![Statystyki](https://github-readme-stats.vercel.app/api?username=Misterekk&show_icons=true&theme=radical)
+
 
 <!---
 Misterekk/Misterekk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
