@@ -9,7 +9,7 @@
 
 # Najczęściej używane języki!
 
-<text align="right" height="160px" src="WKRÓTCE" />
+<text align="right" height="160px" text="WKRÓTCE" />
 
 [![Najczęściej używane języki](https://github-readme-stats.vercel.app/api/top-langs/?username=Misterekk)](https://github.com/Misterekk/AllBot)
 
