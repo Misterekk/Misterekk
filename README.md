@@ -7,6 +7,12 @@
 
 ---
 
+# Najczęściej używane języki!
+
+[![Najczęściej używane języki](https://github-readme-stats.vercel.app/api/top-langs/?username=Misterekk&exclude_repo=github-readme-stats,anuraghazra.github.io)](https://github.com/Misterekk/AllBot)
+
+---
+
 # Moje statystyki!
 ![Statystyki](https://github-readme-stats.vercel.app/api?username=Misterekk&show_icons=true&theme=radical)
 
