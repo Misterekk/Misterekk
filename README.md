@@ -9,7 +9,15 @@
 
 # Najczęściej używane języki!
 
-<text align="right" height="160px" text="WKRÓTCE" />
+<div class="tekst">
+
+<p>WKRÓTCE<p>
+</div>
+
+div.tekst
+{
+text-align: right;
+}
 
 [![Najczęściej używane języki](https://github-readme-stats.vercel.app/api/top-langs/?username=Misterekk)](https://github.com/Misterekk/AllBot)
 
