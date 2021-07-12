@@ -8,7 +8,7 @@
 ---
 
 # Moje statystyki!
-(![Statystyki](https://github-readme-stats.vercel.app/api?username=Misterekk&show_icons=true&theme=radical)
+![Statystyki](https://github-readme-stats.vercel.app/api?username=Misterekk&show_icons=true&theme=radical)
 
 
 <!---
