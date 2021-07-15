@@ -9,7 +9,7 @@
 
 # Najczęściej używane języki!
 
-!(https://github-readme-stats.vercel.app/api/top-langs/?username=Misterekk)
+[![Najczęściej używane języki](https://github-readme-stats.vercel.app/api/top-langs/?username=Misterekk)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
