@@ -9,9 +9,7 @@
 
 # Najczęściej używane języki!
 
-<p>WKRÓTCE<p>
-
-https://github-readme-stats.vercel.app/api/top-langs/?username=Aleks-1123
+!(https://github-readme-stats.vercel.app/api/top-langs/?username=Aleks-1123)
 
 
 
