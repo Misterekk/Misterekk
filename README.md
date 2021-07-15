@@ -11,7 +11,7 @@
 
 <p>WKRÓTCE<p>
 
-[![Najczęściej używane języki](https://github-readme-stats.vercel.app/api/top-langs/?username=Misterekk)](https://github.com/Misterekk/AllBot)
+[![Najczęściej używane języki](ttps://github-readme-stats.vercel.app/api/top-langs/?username=Misterekk)]
 
 
 
