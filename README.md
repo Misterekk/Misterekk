@@ -1,6 +1,6 @@
 # Cześć! Jestem Mister! <img width="30px" src="https://github.com/SatYu26/SatYu26/raw/master/Assets/Hi.gif" />
 
-[<img target="_blank" src="https://discord.c99.nl/widget/theme-3/300977496596152323.png">](https://discord.com/users/300977496596152323)
+[<img target="_blank" src="https://discord.c99.nl/widget/theme-2/300977496596152323.png">](https://discord.com/users/300977496596152323)
 
 ## Mój GitHub i Discord!
 
