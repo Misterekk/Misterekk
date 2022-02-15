@@ -1,8 +1,7 @@
 # Cześć! Jestem Mister! <img width="30px" src="https://github.com/SatYu26/SatYu26/raw/master/Assets/Hi.gif" />
 
 <a href="https://discord.com/users/300977496596152323"><img align="left" src="https://lanyard-profile-readme.vercel.app/api/300977496596152323?bg=00000000" /></a>
-
-[<img target="_blank" src="https://discord.c99.nl/widget/theme-2/300977496596152323.png">](https://discord.com/users/300977496596152323)
+<br>
 
 ## Mój GitHub i Discord!
 
